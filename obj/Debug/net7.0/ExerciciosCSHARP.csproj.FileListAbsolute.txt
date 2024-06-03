@@ -1,0 +1,14 @@
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\bin\Debug\net7.0\ExerciciosCSHARP.exe
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\bin\Debug\net7.0\ExerciciosCSHARP.deps.json
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\bin\Debug\net7.0\ExerciciosCSHARP.runtimeconfig.json
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\bin\Debug\net7.0\ExerciciosCSHARP.dll
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\bin\Debug\net7.0\ExerciciosCSHARP.pdb
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\obj\Debug\net7.0\ExerciciosCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\obj\Debug\net7.0\ExerciciosCSHARP.AssemblyInfoInputs.cache
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\obj\Debug\net7.0\ExerciciosCSHARP.AssemblyInfo.cs
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\obj\Debug\net7.0\ExerciciosCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\obj\Debug\net7.0\ExerciciosCSHARP.dll
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\obj\Debug\net7.0\refint\ExerciciosCSHARP.dll
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\obj\Debug\net7.0\ExerciciosCSHARP.pdb
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\obj\Debug\net7.0\ExerciciosCSHARP.genruntimeconfig.cache
+C:\Users\Eduardo Scopel\source\repos\ExerciciosCSHARP\ExerciciosCSHARP\obj\Debug\net7.0\ref\ExerciciosCSHARP.dll
